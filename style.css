@@ -1,0 +1,55 @@
+h1 {
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 8em;
+    border-style:groove;
+    border-width:30px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-bottom-color: teal;
+    border-top-color:teal;
+    padding: 30px;
+    letter-spacing: 10px;
+    
+
+}
+body{
+    background-color: slategrey;
+    color: paleturquoise;
+    font-family: monospace;
+    line-height: 8mm;
+    border: 20px blueviolet solid;
+    
+}
+.container{
+    width:80%;
+    margin: auto;
+}
+.box-1{
+    margin-left: 50px;
+    margin-right: 20px;
+    letter-spacing: 8px;
+    background-color: teal;
+    padding:10px;
+}
+#list-1{
+    color: lightcoral;
+}
+#list-2{
+    color: lightgreen;
+}
+#list-3{
+    color: rgb(250, 234, 9);
+}
+#list-4{
+    color: magenta;
+}
+#list-5{
+    color: mintcream;
+}
+.list-1 li{
+    background-color:navy;
+    border-style: dotted;
+    border-color: cornsilk;
+    border-width: 2px;
+    
